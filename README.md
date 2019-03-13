@@ -1,3 +1,3 @@
-# Markov Trump Tweet Generator
+# Markov Tweet Generator
 
-Generates Trump tweets using a N-Order Markov Model.
+Generates tweets using a N-Order Markov Model.
